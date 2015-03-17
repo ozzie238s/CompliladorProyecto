@@ -20,7 +20,7 @@ import java.util.StringTokenizer;
  * <li>Primario -> (Expr) |Variable|Terminal</li>
  * </ul>
  *
- * @author Oswaldo Manuel Rios Flores
+ * @author Oswaldo Manuel Rios Flores / Alejandro Amaro Montes / Jesus Manuel Garcia Rico
  * @since 14/03/2015
  * @version 1.0
  *
